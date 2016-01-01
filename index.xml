@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Personalization Podcast</title>
-    <link>https://personalizationpodcast.com/</link>
+    <link>http://personalizationpodcast.com/</link>
     <description>Recent content on The Personalization Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 14:14:52 -0500</lastBuildDate>
-    <atom:link href="https://personalizationpodcast.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://personalizationpodcast.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Episode 1: Welcome and What is Personalization?!</title>
-      <link>https://personalizationpodcast.com/post/episode-1/</link>
+      <link>http://personalizationpodcast.com/post/episode-1/</link>
       <pubDate>Fri, 01 Jan 2016 14:14:52 -0500</pubDate>
       
-      <guid>https://personalizationpodcast.com/post/episode-1/</guid>
+      <guid>http://personalizationpodcast.com/post/episode-1/</guid>
       <description>
 
 &lt;h2 id=&#34;welcome:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Welcome!&lt;/h2&gt;

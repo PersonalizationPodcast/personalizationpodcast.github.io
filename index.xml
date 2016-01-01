@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Personalization Podcast</title>
+    <link>https://personalizationpodcast.com/</link>
+    <description>Recent content on The Personalization Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 14:14:52 -0500</lastBuildDate>
+    <atom:link href="https://personalizationpodcast.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 1: Welcome and What is Personalization?!</title>
+      <link>https://personalizationpodcast.com/post/episode-1/</link>
+      <pubDate>Fri, 01 Jan 2016 14:14:52 -0500</pubDate>
+      
+      <guid>https://personalizationpodcast.com/post/episode-1/</guid>
+      <description>
+
+&lt;h2 id=&#34;welcome:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Welcome!&lt;/h2&gt;
+
+&lt;p&gt;Hello and welcome to the Personalization Podcast, the show about creating and understanding personalized experiences. I am your host, Dave Ingram, and I am excited to bring you this first of many episodes where we will discuss all things related to personalization. This first episode is, unsurprisingly, WHAT IS PERSONALIZATION?!&lt;/p&gt;
+
+&lt;p&gt;I’ll also be talking a little bit about the format of this show and what you can expect.&lt;/p&gt;
+
+&lt;p&gt;You might also be wondering who this guy is who’s talking to you right now, so a very brief introduction. I’m a Southerner who moved to New England to be involved in building a personalization product called Acquia Lift. Today I’m recording from my home outside of Boston. I’ve played roles in Website development, sales and product management, though I studied Political Science. I have hobbies in Music and Photography, and my wife and I have 3 young boys who keep us always on our toes.&lt;/p&gt;
+
+&lt;p&gt;Well, as you can maybe tell.. I’m interested in a lot of things and sometimes get distracted a bit too easily. That’s probably why I’m so fascinated in the subject of Personalization which sits at the intersection of technology and the humanities, encompassing subjects as diverse as data science and machine learning, to the many branches of psychology, as well as a wide range of other techni  cal and non-technical subjects. Many of these areas are changing rapidly, so just trying to keep up can be a big challenge. I’m hoping to cover a little of everything and then go deep into many of these subjects as the weeks and months go on, and I hope you’ll join me on this journey of personalization.&lt;/p&gt;
+
+&lt;p&gt;Some episodes will be just me, covering topics in the news and doing deep dives into things like how to get the most out of your personalization program through people and processes, and hopefully inspiring you with new ideas about how to better engage with your audience. Other episodes will be interview driven, and I’m lining up an exciting round of interviews with experts who are either directly or tangentially involved with personalization.&lt;/p&gt;
+
+&lt;p&gt;Finally we’ll reserve the last few minutes of every episode for questions and answers, so visit personalizationpodcast.com to see all the ways to get in touch.&lt;/p&gt;
+
+&lt;h2 id=&#34;in-the-news:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;In the News&lt;/h2&gt;
+
+&lt;h3 id=&#34;digital-personalization-separating-hype-from-reality:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Digital Personalization, Separating Hype from Reality&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@BlatantDigital/digital-personalization-separating-hype-from-reality-889e082ee53d#.fo055nk8q&#34;&gt;https://medium.com/@BlatantDigital/digital-personalization-separating-hype-from-reality-889e082ee53d#.fo055nk8q&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;How many companies out there mega million dollar budgets with teams of engineers and statisticians running experiments on details like the color or shape of a button? How many companies are selling consumer-specific products at towering scale? These case studies [about Amazon and Netflix] are not relevant for most businesses.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;The Responsible Marketer’s Quick Start Guide to Personalization
+1. Research your audience.
+2. Develop Useful Segments and Personas.
+3. Create Customer Journey Maps.
+4. Identify Meaningful KPIs.
+5. Produce Kickass Content.
+6. Run Controlled Experiments.
+7. Personalize.&lt;/p&gt;
+
+&lt;h3 id=&#34;algorithms-need-managers-too:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Algorithms need Managers, Too&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hbr.org/2016/01/algorithms-need-managers-too&#34;&gt;https://hbr.org/2016/01/algorithms-need-managers-too&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Algorithms get things wrong and need management.&lt;/p&gt;
+
+&lt;p&gt;Defining your goals correctly is one of the most important things that you can do, as this story illustrates:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Everyone has objectives and directives, but we also know that the end doesn’t always justify the means. We understand that there are soft (often unspoken) goals and trade-offs. We may turn down a little profit today for a gain in reputation tomorrow. We may strive for equality—even if it causes organizational pain in the short term. Algorithms, on the other hand, will pursue a specified objective single-mindedly. The best way to mitigate this is to be crystal clear about everything you want to achieve.&lt;/p&gt;
+
+&lt;p&gt;If you care about a soft goal, you need to state it, define it, and quantify how much it matters. To the extent that soft goals are difficult to measure, keep them top of mind when acting on the results from an algorithm.&lt;/p&gt;
+
+&lt;p&gt;At Google (which has funded some of our research on other topics), a soft-goal problem emerged with an algorithm that determines which ads to display. Harvard professor Latanya Sweeney unearthed it in a study. She found that when you typed names that were typically African American, like “Latanya Farrell,” into Google, you were shown ads offering to investigate possible arrest records, but not when you searched on names like “Kristen Haring.” Google’s hard goal of maximizing clicks on ads had led to a situation in which its algorithms, refined through feedback over time, were in effect defaming people with certain kinds of names. It happened because people who searched for particular names were more likely to click on arrest records, which led these records to appear even more often, creating a self-reinforcing loop. This probably was not the intended outcome, but without a soft goal in place, there was no mechanism to steer the algorithm away from it.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-personalization:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;What is Personalization?&lt;/h2&gt;
+
+&lt;p&gt;So let’s take a moment to define what we actually mean by personalization. There are a few possible definitions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Showing the right content, to the right person, at the right time&lt;/li&gt;
+&lt;li&gt;Guiding an individual’s experience based on their context.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Either one of these works, but I like the latter. To me, the concept of personalization is really quite simple. If I know something about you that might be relevant to help me serve your needs better, then I will use that piece of information to guide you in the right direction. Think of a retail store.&lt;/p&gt;
+
+&lt;h3 id=&#34;contextualization-vs-personalization:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Contextualization vs. Personalization&lt;/h3&gt;
+
+&lt;p&gt;Semantics in my opinion but there&amp;rsquo;s some great research there that&amp;rsquo;s worth looking at.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-context-is-available:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;What context is available?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ask them a question&lt;/li&gt;
+&lt;li&gt;Device&lt;/li&gt;
+&lt;li&gt;Geography&lt;/li&gt;
+&lt;li&gt;Referral Source&lt;/li&gt;
+&lt;li&gt;Behavior&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;how-do-you-respond-to-that-context:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;How do you respond to that context?&lt;/h3&gt;
+
+&lt;p&gt;Use either Rules or Algorithms. Lots of software available. More on specific techniques in future episodes.&lt;/p&gt;
+
+&lt;h3 id=&#34;test-test-test:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Test, Test, Test&lt;/h3&gt;
+
+&lt;p&gt;A/B testing is absolutely critical. If you don’t test, you’re wasting a lot of time.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-of-the-week-q-a:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Tip of the Week / Q&amp;amp;A&lt;/h2&gt;
+
+&lt;p&gt;Think like a scientist.&lt;/p&gt;
+
+&lt;h2 id=&#34;goodbye:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Goodbye&lt;/h2&gt;
+
+&lt;p&gt;Please visit personalizationpodcast.com to view show notes and to send questions and feedback. And stay tuned for the next episode where we’ll dive into building a personalization team and talk about using an agile process to reap the benefits of personalization as early as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

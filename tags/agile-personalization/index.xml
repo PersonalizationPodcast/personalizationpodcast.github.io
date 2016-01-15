@@ -6,8 +6,93 @@
     <description>Recent content in Agile Personalization on The Personalization Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2016 11:18:40 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2016 20:21:07 -0500</lastBuildDate>
     <atom:link href="http://personalizationpodcast.com/tags/agile-personalization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 3: Agile Personalization Explained</title>
+      <link>http://personalizationpodcast.com/post/episode-3/</link>
+      <pubDate>Mon, 11 Jan 2016 20:21:07 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-3/</guid>
+      <description>
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242022684&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hello and welcome to The Personalization Podcast! This is the show about
+understanding, planning, building and analyzing personalized experiences.
+I&amp;rsquo;m your host, Dave Ingram, and today we&amp;rsquo;re going to be talking about Agile
+Personalization, or in other words, how you can get the most out of a
+personalization program and a personalization team in the least amount of time.&lt;/p&gt;
+
+&lt;p&gt;Doing personalization well is all about iterating quickly, and that&amp;rsquo;s what
+this episode is about. We&amp;rsquo;ll be borrowing a lot of ideas from the software
+development space, but FEAR NOT! There&amp;rsquo;s no deep, technical stuff coming
+your way. These are straight forward, down to earth principles that you can
+take and apply to almost any area of your life or business that needs to
+be more efficient.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t forget, you can get to show notes at personalizationpodcast.com, and
+you can send questions and feedback to @p13npodcast on Twitter or the
+Personalization Podcast page on Facebook.&lt;/p&gt;
+
+&lt;h2 id=&#34;in-the-news:cb51fda0943db036025e1dcca5e429a3&#34;&gt;In the News&lt;/h2&gt;
+
+&lt;h3 id=&#34;smart-refrigerators-http-www-cnet-com-news-touchscreen-refrigerators-and-talking-everything-at-ces-2016:cb51fda0943db036025e1dcca5e429a3&#34;&gt;&lt;a href=&#34;http://www.cnet.com/news/touchscreen-refrigerators-and-talking-everything-at-ces-2016/&#34;&gt;Smart Refrigerators?&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ve heard about them for years, and there was a new one revealed last week
+at CES. It&amp;rsquo;s got a pretty big touch screen that will run apps so you can look
+up recipes just like people have been saying for a long time. Maybe no big deal,
+but one feature that I like is that it will actually send you pictures of what&amp;rsquo;s
+inside your fridge when you&amp;rsquo;re at the store so you can see what you forgot.&lt;/p&gt;
+
+&lt;p&gt;Worth the $5000 price tag? probably not, but neat none the less.&lt;/p&gt;
+
+&lt;p&gt;What does this have to do with personalization? Well, CES was full of all the
+other hot new gadgets from wearables to connected homes to self driving cars
+which should give anyone pause who is thinking in terms of the Web and Email
+only. The world is changing quickly, and if you&amp;rsquo;re creating digital experiences,
+you need to be prepared for it all to be different very soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;9-reasons-why-personalized-marketing-still-isn-t-accurate-http-www-informationweek-com-big-data-big-data-analytics-9-reasons-why-personalized-marketing-still-isnt-accurate-d-d-id-1323736-image-number-2:cb51fda0943db036025e1dcca5e429a3&#34;&gt;&lt;a href=&#34;http://www.informationweek.com/big-data/big-data-analytics/9-reasons-why-personalized-marketing-still-isnt-accurate/d/d-id/1323736?image_number=2&#34;&gt;9 Reasons Why Personalized Marketing Still Isn&amp;rsquo;t Accurate&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Information Week - Lisa Morgan&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The Data Quality Is Poor&lt;/li&gt;
+&lt;li&gt;Data Isn&amp;rsquo;t Integrated&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re relying too heavily on Legacy Systems&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re discounting internal data assets&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re putting too much faith in the wrong data&lt;/li&gt;
+&lt;li&gt;The analytics used are too basic&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re relying too much on technology&lt;/li&gt;
+&lt;li&gt;You think personalization is a marketing problem &amp;ndash; &amp;ldquo;customers expect personalized experiences throughout the lifetime of a relationship with a company&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s Still Early Days &amp;ndash; &amp;ldquo;While there&amp;rsquo;s a debate about the maturity state of the technology, what&amp;rsquo;s less debated is the need for organizational change.&amp;rdquo;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;agile-personalization:cb51fda0943db036025e1dcca5e429a3&#34;&gt;Agile Personalization&lt;/h2&gt;
+
+&lt;h3 id=&#34;key-ideas:cb51fda0943db036025e1dcca5e429a3&#34;&gt;Key ideas:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Iteration and Learning&lt;/li&gt;
+&lt;li&gt;Infinite possibilities when it comes to things you can do&lt;/li&gt;
+&lt;li&gt;Strategy, Goals and Initiatives .. high level and we&amp;rsquo;ll come back to this&lt;/li&gt;
+&lt;li&gt;Tasks or Stories
+
+&lt;ul&gt;
+&lt;li&gt;Where do Stories come from?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Prioritization of Stories&lt;/li&gt;
+&lt;li&gt;Sprints or Iterations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also mentioned Facebook Planout, an open source experimentation framework.&lt;/p&gt;
+
+&lt;p&gt;For all of these ideas in written form, look out for a soon to be published
+blog post on &lt;a href=&#34;http://acquia.com&#34;&gt;Acquia.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Episode 2: The Personalization Team</title>

@@ -6,18 +6,34 @@
     <description>Recent content on The Personalization Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2016 20:21:07 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2016 22:00:36 -0500</lastBuildDate>
     <atom:link href="http://personalizationpodcast.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 4: Kyle Polich, Data Skepticism in Personalization</title>
+      <link>http://personalizationpodcast.com/post/episode-4/</link>
+      <pubDate>Thu, 04 Feb 2016 22:00:36 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-4/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245513568&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In this show I&amp;rsquo;m joined by &lt;a href=&#34;https://twitter.com/dataskeptic&#34;&gt;Kyle Polich&lt;/a&gt;  of the &lt;a href=&#34;http://dataskeptic.com/&#34;&gt;Data Skeptic Podcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kyle and I discuss the importance of being skeptical of and with data, within the context of Personalization, Web Analytics and particularly A/B testing.&lt;/p&gt;
+
+&lt;p&gt;Resources mentioned in this show:
+* &lt;a href=&#34;https://www.openintro.org/stat/textbook.php&#34;&gt;Open Intro Statistics&lt;/a&gt;
+* &lt;a href=&#34;https://twitter.com/BecomingDataSci&#34;&gt;Data Science Renee&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Episode 3: Agile Personalization Explained</title>
       <link>http://personalizationpodcast.com/post/episode-3/</link>
-      <pubDate>Mon, 11 Jan 2016 20:21:07 -0500</pubDate>
+      <pubDate>Mon, 18 Jan 2016 21:55:29 -0500</pubDate>
       
       <guid>http://personalizationpodcast.com/post/episode-3/</guid>
-      <description>
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242024170&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242024170&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Hello and welcome to The Personalization Podcast! This is the show about
 understanding, planning, building and analyzing personalized experiences.
@@ -97,12 +113,10 @@ blog post on &lt;a href=&#34;http://acquia.com&#34;&gt;Acquia.com&lt;/a&gt;&lt;/
     <item>
       <title>Episode 2: The Personalization Team</title>
       <link>http://personalizationpodcast.com/post/episode-2/</link>
-      <pubDate>Mon, 11 Jan 2016 11:18:40 -0500</pubDate>
+      <pubDate>Mon, 11 Jan 2016 21:53:16 -0500</pubDate>
       
       <guid>http://personalizationpodcast.com/post/episode-2/</guid>
-      <description>
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241498057&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241498057&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Welcome to Episode 2 of The Personalization Podcast&amp;ndash;The show about understanding,
 planning, building and analyzing Personalized Experiences. We talked last time
@@ -200,14 +214,12 @@ to each.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Episode 1: Welcome and What is Personalization?!</title>
+      <title>Episode 1: Welcome and What is Personalization?</title>
       <link>http://personalizationpodcast.com/post/episode-1/</link>
-      <pubDate>Thu, 07 Jan 2016 14:14:52 -0500</pubDate>
+      <pubDate>Thu, 07 Jan 2016 21:51:19 -0500</pubDate>
       
       <guid>http://personalizationpodcast.com/post/episode-1/</guid>
-      <description>
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240912763&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240912763&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Hello and welcome to the Personalization Podcast, the show about understanding, planning, creating and analyzing personalized experiences. I am your host, Dave Ingram, and I am excited to bring you this first of many episodes! Today’s show is all about defining personalization. What is it? What can you do with it? What all is involved?&lt;/p&gt;
 

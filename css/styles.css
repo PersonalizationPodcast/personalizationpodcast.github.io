@@ -779,3 +779,12 @@ body.post-template .site-header h2 .logo {
 
 .clearfix:after {
   clear: both; }
+
+.author p.badge {
+  text-align: center;
+  margin: 10px 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+

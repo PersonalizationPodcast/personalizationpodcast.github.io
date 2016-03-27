@@ -6,8 +6,24 @@
     <description>Recent content in Personalization on The Personalization Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2016 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 12:00:00 -0500</lastBuildDate>
     <atom:link href="http://personalizationpodcast.com/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 11: Machine Learning - Magic, Mayhem, or just Math?</title>
+      <link>http://personalizationpodcast.com/post/episode-11/</link>
+      <pubDate>Fri, 25 Mar 2016 12:00:00 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-11/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255466109&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Will your website&amp;rsquo;s personalization algorithms be taking over the world? Not any time soon according to Katherine Bailey, our guest on this week&amp;rsquo;s show. We cover the underpinnings of machine learning and how it applies to personalization, and talk about a few recent blunders in the field.&lt;/p&gt;
+
+&lt;p&gt;In particular, Katherine and I discuss the different kinds of machine learning such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Supervised_learning&#34;&gt;supervised&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Unsupervised_learning&#34;&gt;unsupervised&lt;/a&gt;, including &lt;a href=&#34;https://en.wikipedia.org/wiki/Linear_regression&#34;&gt;regression&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/K-means_clustering&#34;&gt;k-means&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Decision_tree&#34;&gt;decision trees&lt;/a&gt; and more. We also discuss &lt;a href=&#34;https://en.wikipedia.org/wiki/AlphaGo&#34;&gt;AlphaGo&lt;/a&gt;, as well as &lt;a href=&#34;tay.ai&#34;&gt;Tay the chat bot&lt;/a&gt; and some of the &lt;a href=&#34;http://www.latimes.com/business/technology/la-fi-tn-microsoft-tay-tweets-20160325-htmlstory.html&#34;&gt;horrible things that she &amp;ldquo;learned&amp;rdquo; to say&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Machine learning has made massive strides, but it&amp;rsquo;s far from reaching what we would generally call intelligence.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Episode 10: Customer Experience Fundamentals with Melanie Poitras</title>
